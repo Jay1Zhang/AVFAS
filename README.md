@@ -62,7 +62,6 @@ doi = {10.1145/3581783.3611947},
 booktitle = {Proceedings of the 31st ACM International Conference on Multimedia},
 pages = {3328–3336},
 numpages = {9},
-keywords = {video scene understanding, audio-visual learning, neural architecture search, multi-modal fusion},
 location = {<conf-loc>, <city>Ottawa ON</city>, <country>Canada</country>, </conf-loc>},
 series = {MM '23}
 }
